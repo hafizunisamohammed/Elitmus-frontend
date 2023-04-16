@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Elitmus-frontend/static/css/main.4d2c9fc6.css",
+    "main.js": "/Elitmus-frontend/static/js/main.380b918f.js",
+    "static/media/logo3.jpg": "/Elitmus-frontend/static/media/logo3.8986ecc84d30bc8716a0.jpg",
+    "static/media/cover.png": "/Elitmus-frontend/static/media/cover.b35cfd2810870e019e99.png",
+    "index.html": "/Elitmus-frontend/index.html",
+    "main.4d2c9fc6.css.map": "/Elitmus-frontend/static/css/main.4d2c9fc6.css.map",
+    "main.380b918f.js.map": "/Elitmus-frontend/static/js/main.380b918f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4d2c9fc6.css",
+    "static/js/main.380b918f.js"
+  ]
+}
